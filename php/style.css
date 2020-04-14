@@ -1,0 +1,102 @@
+	.main-content {
+		margin-top:20px;
+		padding: 20px 100px;
+	
+		
+	}
+	body {
+		background-color: #cfcfc4;
+		padding: 20px 100px;
+	}
+	.footer {
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	color: white;
+  	text-align: center;
+	}
+	
+
+
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #30303b;
+	}
+
+	li {
+	float: left;
+	}
+
+	li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	}
+
+	/* Change the link color to #111 (black) on hover */
+	li a:hover {
+	background-color: #3c3c4a;
+	}
+
+
+	input {
+	width: 50%;
+	padding: 10px 20px;
+	margin: 10px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	}
+
+	input[type=submit] {
+	width: 50%;
+	background-color: #3c3c4a;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	}
+
+	input[type=submit]:hover {
+ 	 background-color: #30303b;
+	}
+
+	h2{
+		text-align: center;
+	}
+	h3 {
+	padding: 0px 20px;
+	
+	}
+
+	form{
+		
+	width: 100%;
+	padding: 10px 20px;
+	margin: 10px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+		}
+	select {
+		width: 50%;
+	padding: 10px 20px;
+	margin: 10px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	}
+	
+
+
